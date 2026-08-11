@@ -1,6 +1,11 @@
 # Changelog
 
 All notable changes to `simple-calc` will be documented in this file.
+## [0.2.0] - 2026-08-11
+### Changed 
+- Nothing really new here, just bumped the version to 0.2.0 because crates.io thinks
+  0.1.75 is the newest version
+- Yanked 0.1.9 out in crates.io
 
 ## [0.1.9] - 2026-08-11
 ### Added

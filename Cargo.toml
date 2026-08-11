@@ -1,6 +1,6 @@
 [package]
 name = "simple-calc"
-version = "0.1.9"
+version = "0.2.0"
 edition = "2024"
 authors = ["Frinz Sundiang <sundiangfrinz84@gmail.com>"]
 description = "A (not so) simple CLI calculator made in Rust."
