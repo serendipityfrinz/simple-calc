@@ -17,5 +17,8 @@ Great if you need a reliable, light calculator to use with assignments or quick 
 ## Usage
 Just run `simple-calc`, easy as that.
 
+***A demo of the application...***
+<video src="assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
+
 ## License
 Licensed under MIT License.
