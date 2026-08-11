@@ -1,20 +1,21 @@
 # simple-calc
-*A simple, very overengineered calculator made in Rust.*
+*A (not so) simple calculator made in Rust.*
 
-This calculator is really simple, it just contains the four basic math operations (starting 0.1.5, exponentiations), so don't expect too much of it.
+This calculator contains the four basic math operations, rounding, other stuff inside advanced mode.
 
-Great if you need a quick calculator on the fly, otherwise don't use this.
+Great if you need a reliable, light calculator to use with assignments or quick calculations.
+###### (P.S. don't use this for solving something as hard as the Riemann Hypothesis.)
 
-## Note from creator
+#### Note from creator
 *I don't think simple-calc is so simple anymore...*
 
-# Dependencies
+## Dependencies
 * clearscreen (4.0.6)
 * colored (3.1.1)
 * inquire (0.9.4)
 
-# Usage
+## Usage
 Just run `simple-calc`, easy as that.
 
-# License
+## License
 Licensed under MIT License.

@@ -2,6 +2,18 @@
 
 All notable changes to `simple-calc` will be documented in this file.
 
+## [0.1.7] - 2026-08-11
+### Added
+- Square root in advanced mode (exponentiation finally has a friend!)
+- Rounding
+- Yes/No vector variable that i will use in next update (0.1.8)
+- simple-calc header at the top of the application (the missing piece of the puzzle)
+
+### Changed
+- Numbering of Clear screen and Exit for the favor of Rounding
+- Changed description of simple-calc because i found out that it isn't actually overengineered at all! it is just pragmatic and straightforward code.
+- Changed header size in README.md and changed text there along the way.
+
 ## [0.1.5] - 2026-08-11
 ### Added
 - New advanced options with exponentiation for now
