@@ -2,6 +2,19 @@
 
 All notable changes to `simple-calc` will be documented in this file.
 
+## [0.1.9] - 2026-08-11
+### Added
+- Added an assets/ folder with a demo gif
+- Added a demo inside README.md
+- Added keywords and categories in Cargo.toml in hopes of it getting seen by real people
+  instead of bots and indexers
+
+### Changed
+- MASSIVE changes in README.md
+
+### Fixed
+- Fixed the missing angle brackets in my email part in Cargo.toml and added it
+
 ## [0.1.75] - 2026-08-11
 ### Added
 - Executing simple-calc now clears the terminal so the terminal looks clean when you do your work.
