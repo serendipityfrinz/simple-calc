@@ -1,5 +1,5 @@
 # simple-calc
-*A (not so) simple calculator made in Rust.*
+*A (not so) simple CLI calculator made in Rust.*
 
 This calculator contains the four basic math operations, rounding, other stuff inside advanced mode.
 

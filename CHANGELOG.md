@@ -2,6 +2,11 @@
 
 All notable changes to `simple-calc` will be documented in this file.
 
+## [0.1.75] - 2026-08-11
+### Added
+- Executing simple-calc now clears the terminal so the terminal looks clean when you do your work.
+- Added "CLI" into the description. "A (not so) simple **-> CLI <-** calculator made in Rust."
+
 ## [0.1.7] - 2026-08-11
 ### Added
 - Square root in advanced mode (exponentiation finally has a friend!)

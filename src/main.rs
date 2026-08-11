@@ -5,6 +5,9 @@ use std::time::Duration;
 use std::thread;
 
 fn main() {
+    clear().expect("Failed to clear screen");
+    // Clear the terminal first so terminal is clean :)
+
     loop {
         let mut _num1: f32 = 0.0;
         let mut _num2: f32 = 0.0;
