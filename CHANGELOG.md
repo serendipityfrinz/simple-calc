@@ -1,6 +1,17 @@
 # Changelog
 
 All notable changes to `simple-calc` will be documented in this file.
+
+## [0.2.5] - 2026-08-13
+### Added
+- You can now control rounding! (that's what Yes/No vector was for)
+- New dependency: clap (4.6.6)
+- With clap, simple-calc now has CLI arguments!
+
+### Changed
+- The four basic operations were moved to a seperate option ("2. The four basic operations")
+- Rounding is moved to advanced mode because it belongs there in my opinion
+
 ## [0.2.0] - 2026-08-11
 ### Changed 
 - Nothing really new here, just bumped the version to 0.2.0 because crates.io thinks

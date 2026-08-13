@@ -5,13 +5,14 @@
 This calculator contains the four basic math operations, rounding, other stuff inside advanced mode.
 
 Great if you need a reliable, light calculator to use with assignments or quick calculations.
-###### ⚠️ (P.S. don't use this for solving something as hard as the Riemann Hypothesis.)
+##### ⚠️ (P.S. don't use this for solving something as hard as the Riemann Hypothesis.)
 
 #### Note from creator
 *I don't think simple-calc is so simple anymore...*
 
 
 ## 📦 Dependencies
+* [clap](https://crates.io/crates/clap) (4.6.6)
 * [clearscreen](https://crates.io/crates/clearscreen) (4.0.6)
 * [colored](https://crates.io/crates/colored) (3.1.1)
 * [inquire](https://crates.io/crates/inquire) (0.9.4)
@@ -19,7 +20,8 @@ Great if you need a reliable, light calculator to use with assignments or quick 
 
 ## ⚙️ Usage
 Just run `simple-calc`, easy as that.
-***Note: it does not have CLI arguments.***
+
+***Starting 0.2.5, simple-calc now has CLI arguments!***
 
 
 ## 📥 Installation
@@ -52,4 +54,4 @@ Untested, but it should compile and run smoothly since macOS shares standard UNI
 
 
 ## 📄 License
-Licensed under ![MIT License](LICENSE).
+Licensed under [MIT License](LICENSE).
